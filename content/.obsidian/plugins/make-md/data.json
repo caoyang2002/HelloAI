@@ -61,7 +61,9 @@
     "//编程语言",
     "//编程语言/编程语言/CSS",
     "//Web",
-    "//Web/Web/Game"
+    "//Web/Web/Game",
+    "//Robot",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
